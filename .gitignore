@@ -1,0 +1,6 @@
+*.so
+*.o
+bin/
+obj/
+storage/*
+!storage/.gitkeep
